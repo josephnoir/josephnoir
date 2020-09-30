@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Just checking out how this work. It's a readme. With little to read. Nice.
+
 <!--
 **josephnoir/josephnoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
